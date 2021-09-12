@@ -4,8 +4,7 @@ url: "SkyBlockPuro"
 hidden: false
 only-premium: false
 versions:
-- "1.15"
-- "1.15.2"
+- "1.17.1"
 categories:
 - "pvp"
 - "skygames"
